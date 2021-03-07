@@ -7,7 +7,8 @@
 	* linkedin: https://www.linkedin.com/in/anna-loshakova-817a47172/
 
 
-3. Summary: 
+3. Summary:
+
   I am Junior Frontend Developer with more than one year experience. For my work I ofen use  Angular, TypeScript, CSS3 (SASS), HTML5, Material, Primeng, Git, Jira, Microsoft Teams, IntelliJ IDEA. 
   
   The main goals of my participation in this course are filling knowledge gaps and acquiring new skills.  
